@@ -6,7 +6,7 @@ CS231n Convolutional Neural Networks for Visual Recognition
 this will create an anaconda environment
 called cs231n in 'path/to/anaconda3/envs/'
 
-```shell
+```Shell
 conda create -n cs231nsp22 python=3.7 -y
 conda activate cs231nsp22
 which python
