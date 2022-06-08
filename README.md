@@ -1,9 +1,9 @@
-# CS231n (Spring 2022)
+# CS231n -Spring 2022
 CS231n Convolutional Neural Networks for Visual Recognition
 
 
 
-## Software Setup for (refrence)[https://cs231n.github.io/setup-instructions/]
+## Software Setup for [refrence](https://cs231n.github.io/setup-instructions/)
 ### Creating VENV using Anaconda with the Python 3.7
 this will create an anaconda environment
 called cs231n in 'path/to/anaconda3/envs/'
