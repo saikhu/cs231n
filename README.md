@@ -14,5 +14,9 @@ conda activate cs231nsp22
 which python
 ```
 
-
+```
+conda install numpy -yq
+conda install matplotlib -yq
+conda install scipy -yq
+```
 
