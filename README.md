@@ -18,5 +18,7 @@ which python
 conda install numpy -yq
 conda install matplotlib -yq
 conda install scipy -yq
+conda install -c conda-forge imageio -yq
+conda install -c anaconda future -yq
 ```
 
