@@ -163,6 +163,7 @@ class KNearestNeighbor(object):
             # Hint: Look up the function numpy.argsort.                             #
             #########################################################################
             # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
+            closest_y =  np.where(arr == np.amin(dists[i,:]))
 
             pass
 
